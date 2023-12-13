@@ -1,4 +1,4 @@
-#Detection Engineering Endpoint Telemetry
+# Detection Engineering Endpoint Telemetry
 
 ## 1. Introduction to Detection Engineering
 - **Objective**: Identifying cybersecurity threats with minimal false positives.
